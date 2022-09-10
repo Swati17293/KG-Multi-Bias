@@ -47,3 +47,6 @@ For headlines with attended IC_Knwl
 ```
 python3 Headline+Attn(IC_Knwl).py 
 ```
+
+## License
+MIT License
